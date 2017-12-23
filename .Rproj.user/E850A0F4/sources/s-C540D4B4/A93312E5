@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1514071803918.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "A93312E5",
+    "lastKnownWriteTime" : 1514068807,
+    "last_content_update" : 1514068807,
+    "path" : "~/E/7-teaching-age/blog/homepage/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+        "cursorPosition" : "128,42",
+        "scrollLine" : "114"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}

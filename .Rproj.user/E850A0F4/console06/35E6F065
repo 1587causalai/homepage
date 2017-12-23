@@ -1,0 +1,42 @@
+]0;/home/ghy/E/7-teaching-age/blog/homepage]0;ghy@jared: ~/E/7-teaching-age/blog/homepage[01;32mghy@jared[00m:[01;34m~/E/7-teaching-age/blog/homepage[00m$ [K]0;ghy@jared: ~/E/7-teaching-age/blog/homepage[01;32mghy@jared[00m:[01;34m~/E/7-teaching-age/blog/homepage[00m$ git n[Kinit
+Initialized empty Git repository in /home/ghy/E/7-teaching-age/blog/homepage/.git/
+]0;/home/ghy/E/7-teaching-age/blog/homepage]0;ghy@jared: ~/E/7-teaching-age/blog/homepage[01;32mghy@jared[00m:[01;34m~/E/7-teaching-age/blog/homepage[00m$ git commit -m 'fir[K[Krist[K[K[K[Kirst commit[K[K[K[K[K[Ktry'
+On branch master
+
+Initial commit
+
+Untracked files:
+	[31m.Rproj.user/[m
+	[31mconfig.toml[m
+	[31mcontent/[m
+	[31mhomepage.Rproj[m
+	[31mindex.Rmd[m
+	[31mpublic/[m
+	[31mstatic/[m
+	[31mthemes/[m
+
+nothing added to commit but untracked files present
+]0;/home/ghy/E/7-teaching-age/blog/homepage]0;ghy@jared: ~/E/7-teaching-age/blog/homepage[01;32mghy@jared[00m:[01;34m~/E/7-teaching-age/blog/homepage[00m$ ls
+[0m[34;42marchetypes[0m  [01;32mconfig.toml[0m  [34;42mcontent[0m  [34;42mdata[0m  [01;32mhomepage.Rproj[0m  [01;32mindex.Rmd[0m  [34;42mlayouts[0m  [34;42mpublic[0m  [34;42mstatic[0m  [34;42mthemes[0m
+]0;/home/ghy/E/7-teaching-age/blog/homepage]0;ghy@jared: ~/E/7-teaching-age/blog/homepage[01;32mghy@jared[00m:[01;34m~/E/7-teaching-age/blog/homepage[00m$ ^C
+]0;/home/ghy/E/7-teaching-age/blog/homepage]0;ghy@jared: ~/E/7-teaching-age/blog/homepage[01;32mghy@jared[00m:[01;34m~/E/7-teaching-age/blog/homepage[00m$ git remote add origin git@github.com:HeyangGong/homepage.git
+]0;/home/ghy/E/7-teaching-age/blog/homepage]0;ghy@jared: ~/E/7-teaching-age/blog/homepage[01;32mghy@jared[00m:[01;34m~/E/7-teaching-age/blog/homepage[00m$ git push -u origin master
+error: src refspec master does not match any.
+error: failed to push some refs to 'git@github.com:HeyangGong/homepage.git'
+]0;/home/ghy/E/7-teaching-age/blog/homepage]0;ghy@jared: ~/E/7-teaching-age/blog/homepage[01;32mghy@jared[00m:[01;34m~/E/7-teaching-age/blog/homepage[00m$ git commit -m 'get yourhands dirty'
+On branch master
+
+Initial commit
+
+Untracked files:
+	[31m.Rproj.user/[m
+	[31mconfig.toml[m
+	[31mcontent/[m
+	[31mhomepage.Rproj[m
+	[31mindex.Rmd[m
+	[31mpublic/[m
+	[31mstatic/[m
+	[31mthemes/[m
+
+nothing added to commit but untracked files present
+]0;/home/ghy/E/7-teaching-age/blog/homepage]0;ghy@jared: ~/E/7-teaching-age/blog/homepage[01;32mghy@jared[00m:[01;34m~/E/7-teaching-age/blog/homepage[00m$ 
